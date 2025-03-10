@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardNexus", "CardNexus\CardNexus.csproj", "{D017D989-ED3D-7278-F611-C3E12B1A78CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D017D989-ED3D-7278-F611-C3E12B1A78CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D017D989-ED3D-7278-F611-C3E12B1A78CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D017D989-ED3D-7278-F611-C3E12B1A78CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D017D989-ED3D-7278-F611-C3E12B1A78CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {040490C5-3688-49F5-B0C7-7BFE8588B68D}
+	EndGlobalSection
+EndGlobal

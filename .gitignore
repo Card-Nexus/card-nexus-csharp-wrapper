@@ -1,0 +1,44 @@
+# User-specific files
+.idea/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istros/
+[Dd]eployment/
+[Dd]ebugBuild/
+[Dd]ebugger/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.pdb
+
+# Windows Installer files for Xamarin Studio and Visual Studio for Mac
+.vscode/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows Installer files
+*.appx
+*.appxbundle
+
+# Windows Installer files
+*.nupkg
